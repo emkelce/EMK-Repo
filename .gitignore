@@ -1,1 +1,9 @@
-// GIT Ignore //
+//TESTING ExtJS Ignore file //
+
+.architect
+bootstrap.json
+build/
+ext/
+
+
+
